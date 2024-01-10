@@ -1,0 +1,2 @@
+# Oppgave 1
+## This is the new text file on the main branch, no I have to commit and push it
